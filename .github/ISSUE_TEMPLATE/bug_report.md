@@ -3,7 +3,6 @@ name: Bug report
 about: Report a bug/issue.
 title: ''
 labels: bug
-assignees: the-can-of-soup
 
 ---
 
